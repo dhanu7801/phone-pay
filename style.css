@@ -1,0 +1,111 @@
+.img{
+    border-radius: 1rem;
+    margin-top: 1rem;
+    background-image: url(./money-2724241_1280.jpg);
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    height:20rem
+    
+}
+.class1{
+    padding-top: 2rem;
+    color: white;
+}
+.class2{
+     color: white;
+}
+.classs{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    height:4rem;
+    width: 4rem;
+    border-radius: 50rem;
+    border: solid;
+    margin-left: 3rem;
+}
+.id{
+    display: flex;
+    flex-direction:center;
+    align-items: center;
+}
+.right{
+    padding-bottom: 1rem;
+    padding-left: 53rem;
+}
+.mycard{
+    border-radius: 2rem;
+    background-color: rgba(137, 43, 226, 0.452);
+}
+.left{
+    padding-left: 1rem;
+}
+.trans{
+    padding-left: 1rem;
+
+}
+.mar{
+    padding-left: 7rem;
+}
+
+.circle{
+    height: 4rem ;
+    width: 4rem;
+    border-radius: 50%;
+    color:rgba(137, 43, 226, 0.288);
+    border: solid;
+}
+.mycard1{
+    background-color: rgba(0, 0, 255, 0.342);
+    margin-top: 1rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 1rem;
+}
+
+.container{
+    background-color: black;
+}
+ 
+.clr{
+    display: flex;
+    flex-direction: center;
+    background-color:rgba(137, 43, 226, 0.219);
+}
+.pay{
+    margin-top: 1rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.clr2{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 1rem;
+    background-color:rgba(137, 43, 226, 0.219);
+}
+
+.imgg{
+    height: 3rem;
+    width: 3rem;
+}
+
+.clr2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(0, 0, 255, 0.342);
+    border-radius: 1rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    margin-left: 1rem;
+    margin-bottom: 2px;
+}
